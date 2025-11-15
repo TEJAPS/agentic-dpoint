@@ -1,0 +1,44 @@
+
+Project Name: DPoint AI – Agentic AI Training & Workflow Automation Platform
+
+Project Scope Overview:
+DPoint AI is developing a modern Agentic AI training and automation platform designed for students, developers, and enterprise teams. The platform combines Large Language Models, tools, resources, and workflow orchestration to simplify building, testing, and deploying agent-based systems.
+
+1. Core Objectives:
+- Provide a hands-on learning environment to teach users how to build Agentic AI systems.
+- Enable creation of multi-agent workflows that use tools, resources, and web actions.
+- Offer real-time tracing and debugging using LangSmith-style observability.
+- Demonstrate how LLMs interact with files, APIs, browser automation, and custom tools.
+
+2. Key Features:
+- Resource-aware agents that read files (e.g., project scope), retrieve context, and use it in decisions.
+- Tool execution including browser actions, file operations, API calls, and custom plugins.
+- Agent-to-agent handoff support for complex workflows.
+- Built-in workflow tracing for education, demos, and enterprise visibility.
+- Interactive exercises for:
+  * LLM grounding
+  * Prompt engineering
+  * Multi-step reasoning
+  * Tool calling
+  * Debugging/tracing with LangSmith
+
+3. Target Users:
+- Students learning LLMs and Agentic AI
+- Developers experimenting with agents, tools, and workflows
+- Enterprise teams exploring automation and internal AI copilots
+- Educators/trainers teaching modern LLM architectures
+
+4. Expected Outcomes:
+- Faster adoption of Agentic AI concepts in academic and corporate environments.
+- A reusable training curriculum with labs, example projects, and guided workflows.
+- A platform that demonstrates:
+  * How LLM agents consume resources
+  * How they summarize information
+  * How they communicate updates (email, push notifications, etc.)
+
+5. Business Impact:
+- Standardizes how teams learn and prototype Agentic AI.
+- Reduces onboarding time for AI developers.
+- Enables enterprises to visualize and control LLM workflows with full traceability.
+- Accelerates development of AI copilots and internal automation tools.
+    
